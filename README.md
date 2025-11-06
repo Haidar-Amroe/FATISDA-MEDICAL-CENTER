@@ -1,2 +1,2 @@
 # FATISDA-MEDICAL-CENTER
-Responsi Mata Kuliah Konsep Pemrograman
+Responsi Mata Kuliah Konsep Pemrograman dengan konsep pelayanan kesehatan.
